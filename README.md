@@ -4,7 +4,8 @@
 
 - Cursando análise e desenvolvimento de sistemas
 - (ano.getAtualAno - 2000) + " anos"; //23 anos
-- (local.getLocalHome); //SP - Brasil
+- (local.getLocalHome); //SP - Brasil<br>
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-114b9b169/)
 <br></br>
 
 ## 🚀Tecnologias, linguagens e ferramentas
