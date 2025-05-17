@@ -3,8 +3,8 @@
 ## Me conheça e entre em contato
 
 - Cursando análise e desenvolvimento de sistemas
-- (ano.getAtualAno - 2000) + " anos"; //24 anos
-- (local.getLocalHome); //SP - Brasil<br>
+- (ano.getAtualAno - 2000) + " anos"; //25 anos
+- (local.getLocalHome); //BSB - Brasil<br>
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-114b9b169/)
 <br></br>
 
