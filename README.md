@@ -25,4 +25,4 @@
 <br></br>
 
 ## 📊Estatísticas
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel6268&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel6268)
